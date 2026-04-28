@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on: **"Nexus" Admin Dashboard** aur **AI-powered applications**.
 - 👯 I’m looking to collaborate on: **Open-source AI automation tools**.
 - 🌱 I’m currently learning: **Advanced RAG (Retrieval-Augmented Generation)** and **Multi-AI Agent orchestration**.
-- 💬 Ask me about: **React, Tailwind CSS, and local LLMs (Ollama)**.
+- 💬 Ask me about: **React, Tailwind CSS, and local LLMs (Ollama) (Groq LPU)**.
 - ⚡ Fun fact: I love solving complex UI bugs as much as I love exploring new AI models!
 
 ## 🤖 AI Expertise:
