@@ -8,6 +8,7 @@
 ## 🤖 AI Expertise:
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph.js-1C3C3C?style=for-the-badge&logo=framework&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Architecture-007ACC?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6F61?style=for-the-badge&logo=ai-agents&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
